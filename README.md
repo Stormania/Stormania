@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile views](https://gpvc.arturio.dev/Stormania&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?Stormania&color=green)
