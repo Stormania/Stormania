@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Stormania/Stormania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=Stormania&color=blue)
+
+![](https://img.shields.io/github/followers/Stormania?logo=GitHub&style=for-the-badge)
+![](https://img.shields.io/twitter/follow/Stormania94?color=blue&logo=Twitter&style=for-the-badge)
