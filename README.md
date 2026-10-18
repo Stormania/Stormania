@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Stormania&color=blue)
 
-![](https://img.shields.io/github/followers/Stormania?logo=GitHub&style=for-the-badge)
-![](https://img.shields.io/twitter/follow/Stormania94?color=blue&logo=Twitter&style=for-the-badge)
